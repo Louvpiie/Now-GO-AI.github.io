@@ -7545,6 +7545,15 @@ textarea:-ms-input-placeholder {
   color: #086ad8;
 }
 
+.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price1 {
+  font-size: 45.3px;
+  line-height: 54px;
+  font-family: "Barlow", sans-serif;
+  font-weight: 600;
+  display: inline-block;
+  color: #f0f0f0;
+}
+
 .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price span {
   font-size: 18px;
   font-weight: 500;
