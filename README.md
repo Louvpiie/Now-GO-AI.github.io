@@ -10,7 +10,7 @@ https://louvpiie.github.io/Now-GO-AI.github.io/
 
 ### Contribuição
 - Igor Prado Sudo
-- Leticia Nery Silva
+- Louie Nery Silva
 - André Luiz de Freitas Ornelas
 - Gabriel Mendonça da Costa
 - Mariana de Sene Santos
