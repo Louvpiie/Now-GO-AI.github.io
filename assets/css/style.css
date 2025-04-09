@@ -389,6 +389,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   transform: scale(1);
 }
 
+.swiper-brand {
+  text-align: center;
+}
+
 /*--  Preloader Styles  --*/
 #preloader {
   position: fixed;
@@ -5762,6 +5766,25 @@ textarea:-ms-input-placeholder {
 
 .techwix-brand-section-04 .brand-wrapper {
   padding-top: 0;
+}
+
+.techwix-brand-section-03 .brand-wrapper-inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.techwix-brand-section-03 .single-brand {
+  text-align: center;
+  flex: 0 1 auto;
+}
+
+.techwix-brand-section-03 .single-brand img {
+  max-width: 100%;
+  height: auto;
 }
 
 /*--
