@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão mais bonita e visualmente organizada do seu `README.md`, com uso de formatação Markdown moderna, emojis, seções claras e links estilizados:
-
----
-
 # 🚀 Now-GO-AI
 
 **Projeto acadêmico com o objetivo de desenvolver e revisar um site funcional para a empresa fictícia *Now GO-AI*.**
@@ -92,7 +88,3 @@ Verifique se todas as funcionalidades e exibições estão corretas.
 
 * Quer usar um **domínio personalizado**?
   Adicione um arquivo `CNAME` no repositório com o domínio desejado.
-
----
-
-Se quiser, posso gerar um layout alternativo com imagens, ícones ou banners. Deseja isso também?
