@@ -12,11 +12,7 @@
 * **Igor Prado Sudo**
 * **Louie Nery Silva**
 * **André Luiz de Freitas Ornelas**
-* **Gabriel Mendonça da Costa**
-* **Mariana de Sene Santos**
-* **Daniel de Miranda Barbosa**
-* **Luanna Silva Pereira**
-* **Juan Felipe Nogueira de Freitas**
+* **Guilherme Souza Rocha**
 
 ---
 
