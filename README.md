@@ -1,6 +1,6 @@
 # 🚀 Now-GO-AI
 
-**Projeto acadêmico com o objetivo de desenvolver e revisar um site funcional para a empresa fictícia *Now GO-AI*.**
+**Projeto acadêmico com o objetivo de desenvolver e revisar um site funcional para a empresa *Now GO-AI*.**
 
 🔗 **Acesse o site:**
 [https://louvpiie.github.io/Now-GO-AI.github.io/](https://louvpiie.github.io/Now-GO-AI.github.io/)
