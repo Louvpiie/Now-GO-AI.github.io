@@ -86,4 +86,4 @@ Verifique se todas as funcionalidades e exibições estão corretas.
 ### 💡 Dicas adicionais
 
 * Quer usar um **domínio personalizado**?
-  Basta configurar o arquivo CNAME com o domínio desejado (como já feito com [www.nowgoai.com](https://www.nowgoai.com/)).
+* Basta configurar o arquivo CNAME com o domínio desejado (como já feito com [www.nowgoai.com](https://www.nowgoai.com/)).
