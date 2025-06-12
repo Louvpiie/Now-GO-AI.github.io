@@ -2,8 +2,11 @@
 
 **Projeto acadêmico com o objetivo de desenvolver e revisar um site funcional para a empresa *Now GO-AI*.**
 
-🔗 **Acesse o site:**
+🔗 **Acesse o site no GitHub Pages:**
 [https://louvpiie.github.io/Now-GO-AI.github.io/](https://louvpiie.github.io/Now-GO-AI.github.io/)
+
+🌐 **Acesse o site com domínio próprio:**
+[www.nowgoai.com](https://www.nowgoai.com/)
 
 ---
 
@@ -83,4 +86,4 @@ Verifique se todas as funcionalidades e exibições estão corretas.
 ### 💡 Dicas adicionais
 
 * Quer usar um **domínio personalizado**?
-  Adicione um arquivo `CNAME` no repositório com o domínio desejado.
+  Basta configurar o arquivo CNAME com o domínio desejado (como já feito com https://web.whatsapp.com/).
